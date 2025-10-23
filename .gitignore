@@ -27,7 +27,6 @@ wheels/
 *.swo
 
 # Data files
-*.csv
 *.json
 *.parquet
 *.feather
